@@ -10,7 +10,7 @@ We will first go through the initial setup, and we will then build a ```componen
 ### Setup
 1. Change directory into the wyncode folder.
 3. Run ```npm install create-react-app -g``` to install create-react-app globally
-2. use ```create-react-app``` to build a new React app named ```react-implementation-1```
+2. Run ```create-react-app react-implementation-1``` to build a new React app named ```react-implementation-1```
 3. Change directory into the newly created app directory.
 4. Delete all files in the ```src``` folder.
 5. Create an ```index.js``` file in the ```src``` folder
